@@ -1,5 +1,5 @@
-## Welcome
+# Welcome
 
-# About me
+## About me
 
-# Current project
+## Current project
